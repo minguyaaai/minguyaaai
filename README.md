@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=minguyaaai&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=minguyaaai&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Hits](https://hits.sh/github.com/minguyaaai.svg?style=plastic&label=Profile%20viewers&color=804ae4)](https://hits.sh/github.com/minguyaaai/)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
